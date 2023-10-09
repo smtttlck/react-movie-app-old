@@ -1,0 +1,23 @@
+.card {
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.card .movies {
+    opacity: 0.6;
+    font-size: 15px;
+}
+.card:hover { 
+    text-shadow: 2px 2px #F73D93; 
+    outline: 2px #F73D93 solid; 
+}
+
+.pagination a {
+    color: #F73D93 !important;
+    font-size: 18px;
+}
+.pagination a:hover { 
+    outline: 1px #F73D93 solid; 
+}
+.pagination .disabled a {color: #7F8487 !important}

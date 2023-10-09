@@ -1,0 +1,63 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #16003B;
+}
+
+a { text-decoration: none }
+
+.bg-dark1 { background-color: #413F42 }
+.bg-pink { background-color: #F73D93 }
+.bg-purple { background-color: #16003B }
+.bg-grey { background-color: #7F8487 }
+
+
+.text-white, a { color: #fff !important }
+.text-pink { color: #F73D93 }
+
+.navbar-toggler-icon {
+  background-color: #fff;
+  border-radius: 10px;
+  outline: 2px #fff solid;
+}
+
+.mini-button { background-color: #F73D93 !important; }
+.mini-button:hover {
+  background-color: #fff !important; 
+  color: #F73D93 !important;
+  outline: 3px #F73D93 solid;
+}
+
+.mini-button2 { 
+  background-color: #F73D93 !important; 
+  width: 120px;
+  margin-right: 5px;
+}
+.mini-button2:hover {
+  background-color: #fff !important; 
+  color: #F73D93 !important;
+  outline: 3px #F73D93 solid;
+}
+
+.mini-button3 { 
+  color: #F73D93 !important;
+  background-color: #fff !important; 
+  width: 120px;
+  margin-right: 5px;
+}
+.mini-button3:hover {
+  background-color: #F73D93 !important; 
+  color: #fff !important;
+  outline: 3px #fff solid;
+}
+
+.navbar a:hover {
+  text-shadow: 2px 2px #F73D93 !important;
+  font-weight: 600;
+}
+
+.category-select { outline: 1px #F73D93 solid; }

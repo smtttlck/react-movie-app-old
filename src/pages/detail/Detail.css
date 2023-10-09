@@ -1,0 +1,19 @@
+.card-image img {
+    height: 350px;
+    border-radius: 5px;
+}
+
+.actor-card {
+    width: 125px;
+    height: 280px;
+    overflow: hidden;
+    outline: 1px #F73D93 solid;
+    border-radius: 10px;
+}
+.actor-card img{
+    height: 200px;
+}
+.actor-card:hover { 
+    outline-width: 3px;
+    text-shadow: 2px 2px #F73D93;  
+}

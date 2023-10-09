@@ -1,0 +1,21 @@
+.movie-card {
+    width: 200px;
+    height: 430px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.movie-card .icon { height: 17px }
+.movie-card .date { 
+    opacity: 0.6;
+    font-size: 15px;
+}
+.movie-card .name { 
+    max-height: 50px;
+    overflow: hidden;
+}
+.movie-card:hover { 
+    text-shadow: 2px 2px #F73D93; 
+    outline: 2px #F73D93 solid; 
+}
