@@ -1,6 +1,6 @@
 
 
-const apiKey = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMDMwYWM5N2VmZDVhNmVjZDJlMjdkZTIzZTAwNjcyNSIsInN1YiI6IjY1MDJlNzY0ZTBjYTdmMDEyZWI5ZDIzNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WrZ1nEvB8N_aA9d9PSksS8x00LxLB6qCdA5X7rmkF40'
+const apiKey = ''
 
 const options = {
     method: 'GET',
